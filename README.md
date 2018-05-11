@@ -2,9 +2,9 @@
 
 ### Student Details:
 
-- **Student ID**: u1610081
-- **Student Name**: Islom Babaev
-- **Section Number**: 001
+- **Student ID**: u1610124
+- **Student Name**: Laziza Nasridinova
+- **Section Number**: 002
 
 
 
